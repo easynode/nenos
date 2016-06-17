@@ -1,0 +1,61 @@
+{
+  "name": "nenos",
+  "version": "1.1.2",
+  "description": "ne's nos node client",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "contributors": [
+    "hujb2000 <hujb2000@163.com>",
+    "sunfuze <sunfuze.1989@gmail.com"
+  ],
+  "keywords": [
+    "nos",
+    "easynode"
+  ],
+  "repository": "easynode/nenos",
+  "homepage": "https://easynode.github.io",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.0.5",
+    "co": "^4.6.0",
+    "ejs": "^2.3.4",
+    "lodash": "^3.10.1",
+    "request": "^2.65.0",
+    "urlencode": "^1.1.0",
+    "xml2js": "^0.4.15"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.0",
+    "gulp-sourcemaps": "^1.5.2"
+  },
+  "_id": "nenos@1.0.1",
+  "_shasum": "ea4ecd801826443c43a1f0f142fe48739328f61d",
+  "_from": "nenos@*",
+  "_npmVersion": "2.13.3",
+  "_nodeVersion": "3.3.0",
+  "_npmUser": {
+    "name": "hujb2000",
+    "email": "hujb2000@163.com"
+  },
+  "dist": {
+    "shasum": "ea4ecd801826443c43a1f0f142fe48739328f61d",
+    "tarball": "http://registry.npmjs.org/nenos/-/nenos-1.1.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "hujb2000",
+      "email": "hujb2000@163.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "http://registry.npmjs.org/nenos/-/nenos-1.1.2.tgz",
+  "files": [
+    "LICENSE",
+    "History.md",
+    "README.md",
+    "lib/"
+  ]
+}
